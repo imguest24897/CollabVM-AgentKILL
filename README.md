@@ -6,3 +6,6 @@ It works very simple - only ending process of agent - CollabVMAgent.exe. Or even
 Yes. You can.
 ## Version
 CollabVM AgentKILL - Version 0.3 Final Beta
+## Owner and Co-Owner
+Owner: Guest24897
+Co-Owner: skyhighsundae
