@@ -1,4 +1,6 @@
 @echo off
+echo ============= | CollabVM-AgentKILL | =============
+echo Owner of BAT: Guest24897. Co-owner of BAT: SkyHighSundae
 echo Killing agent...
 taskkill /F /IM CollabVMAgent.exe
 echo Deleting agent...
