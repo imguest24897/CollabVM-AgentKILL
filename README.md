@@ -5,4 +5,4 @@ It works very simple - only ending process of agent - CollabVMAgent.exe. Or even
 ## Can i use it as anti-forkie program in UserVM?
 Yes. You can.
 ## Version
-CollabVM AgentKILL - Version 0.2 Beta
+CollabVM AgentKILL - Version 0.3 Final Beta
